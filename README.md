@@ -1,2 +1,2 @@
 # Django
-basic jango
+basic Django
